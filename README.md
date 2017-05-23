@@ -32,7 +32,7 @@ Cores oficiais do elementary Brasil:
 
 ## Outros elementos visuais
 
-O elementary Brasil partilha da visão de uso de marca do elementary, portanto, descrição e instrução de uso de outros elementos visuais não citados aqui podem ser lidos na página de [marca do elementary](https://elementary.io/brand).
+O elementary Brasil partilha da visão de uso de marca do elementary, portanto, descrição e instrução de uso de outros elementos visuais não citados aqui podem ser lidos na página da [marca do elementary](https://elementary.io/brand).
 
 
 
