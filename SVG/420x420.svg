@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="580"
-   height="580"
+   width="630"
+   height="630"
    id="svg3041"
    version="1.1"
    inkscape:version="0.92.1 unknown"
-   sodipodi:docname="600x600.svg"
-   viewBox="0 0 543.74995 543.74997">
+   sodipodi:docname="420x420.svg"
+   viewBox="0 0 590.62495 590.62497">
   <defs
      id="defs3043">
     <inkscape:path-effect
@@ -91,7 +91,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="236.93756"
+     inkscape:cx="-14.085348"
      inkscape:cy="558.84541"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -126,21 +126,21 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(-20.745098,501.36259)">
+     transform="translate(-20.745098,548.23759)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.90372849px;line-height:0%;font-family:econ;-inkscape-font-specification:econ;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.99197745"
-       x="292.62009"
-       y="-229.48761"
+       x="316.05759"
+       y="-252.92511"
        id="text2989"><tspan
          sodipodi:role="line"
          id="tspan2991"
-         x="292.62009"
-         y="-229.48761"
+         x="316.05759"
+         y="-252.92511"
          style="font-size:191.48655701px;line-height:1.25;stroke-width:2.99197745"> </tspan></text>
     <g
        id="g5524"
-       transform="matrix(0.7,0,0,0.69999999,12.578967,11.034345)">
+       transform="matrix(0.7,0,0,0.69999999,36.016467,-12.403155)">
       <text
          id="text3049"
          y="-362.57272"

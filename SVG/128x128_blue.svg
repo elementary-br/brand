@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="288"
-   height="288"
+   width="192"
+   height="192"
    id="svg3041"
    version="1.1"
    inkscape:version="0.92.1 unknown"
-   sodipodi:docname="ebr-logo_black-on-white_master.svg"
-   viewBox="0 0 269.99998 269.99999"
+   sodipodi:docname="128x128_blue.svg"
+   viewBox="0 0 179.99999 179.99999"
    inkscape:export-filename="/home/leonardolemos/src/brand/SVG/ebr-logo_black-on-white_master.svg.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -94,8 +94,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.57125"
-     inkscape:cx="-364.46851"
-     inkscape:cy="259.99216"
+     inkscape:cx="-723.19063"
+     inkscape:cy="211.99218"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -130,7 +130,7 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(-282.16683,446.6078)">
+     transform="translate(-327.16684,401.60778)">
     <rect
        style="fill:#1651b8;fill-opacity:0;stroke:#999999;stroke-width:0.93749994"
        id="rect5118"
@@ -139,18 +139,18 @@
        x="-673.98724"
        y="-1768.6898" />
     <rect
-       style="fill:#1651b8;fill-opacity:0.99074073;stroke:#999999;stroke-width:0.41407964"
+       style="fill:#1651b8;fill-opacity:0.99074073;stroke:#999999;stroke-width:0.2760531"
        id="rect5120"
-       width="269.58591"
-       height="269.58591"
-       x="282.37387"
-       y="-446.40076" />
+       width="179.72394"
+       height="179.72394"
+       x="327.30487"
+       y="-401.46976" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(-242.65163,-242.6517)">
+     transform="translate(-287.65164,-287.65172)">
     <g
        id="g5524"
        transform="matrix(0.21333333,0,0,0.21333333,292.30575,450.9536)"

@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="285"
-   height="285"
+   width="187.5"
+   height="187.5"
    id="svg3041"
    version="1.1"
    inkscape:version="0.92.1 unknown"
-   sodipodi:docname="125x125_blue.svg"
-   viewBox="0 0 267.18748 267.18749"
+   sodipodi:docname="125x125_grey.svg"
+   viewBox="0 0 175.78124 175.78124"
    inkscape:export-filename="/home/leonardolemos/src/brand/SVG/ebr-logo_black-on-white_master.svg.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -94,8 +94,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.57125"
-     inkscape:cx="-676.6906"
-     inkscape:cy="258.49214"
+     inkscape:cx="-1036.1627"
+     inkscape:cy="209.74214"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -130,7 +130,7 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(-283.57307,445.20156)">
+     transform="translate(-329.27619,399.49844)">
     <rect
        style="fill:#1651b8;fill-opacity:0;stroke:#999999;stroke-width:0.93749994"
        id="rect5118"
@@ -139,18 +139,18 @@
        x="-673.98724"
        y="-1768.6898" />
     <rect
-       style="fill:#333333;fill-opacity:1;stroke:#999999;stroke-width:0.40976632"
+       style="fill:#333333;fill-opacity:1;stroke:#999999;stroke-width:0.26958311"
        id="rect5120"
-       width="266.77771"
-       height="266.77771"
-       x="283.77795"
-       y="-444.99667" />
+       width="175.51166"
+       height="175.51166"
+       x="329.41098"
+       y="-399.36365" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(-244.05787,-244.05794)">
+     transform="translate(-289.76099,-289.76106)">
     <g
        id="g5524"
        transform="matrix(0.20833334,0,0,0.20833334,294.30604,449.23559)"
