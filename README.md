@@ -3,7 +3,7 @@
 Assim como o elementary LLC., empresa responsável pelo desenvolvimento do elementary OS, nossa comunidade também possui uma marca única que a identifica no mundo, ela nos representa oficialmente em qualquer atividades exercida por nossos membros. Utilizamos de vários elementos gráficos que fazem alusão ao nossa país e à marca *elementary*.
 
 ## Logomarca
-[!Logo 128](./128x128.png) [!Logo 128 Blue](./128x128_blue.png) [!Logo 128 Grey](./128x128_grey.png)
+![Logo 128](./128x128.png) ![Logo 128 Blue](./128x128_blue.png) ![Logo 128 Grey](./128x128_grey.png)
 
 Utilizamos uma logomarca baseada na logomarca oficial do elementary: um círculo com um 'e' escrito no centro, com adição de um elemento a mais: as letras 'br' escritas ao lado do 'e'.
 
